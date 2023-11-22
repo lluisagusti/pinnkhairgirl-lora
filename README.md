@@ -1,0 +1,2 @@
+# pinnkhairgirl-lora
+ lora
